@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.printWidth": 50,
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "prettier.proseWrap": "always"
+  }
+  
